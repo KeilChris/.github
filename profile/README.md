@@ -1,12 +1,8 @@
-# About me
+# Keil Studio examples
 
-I am the product manager for the Arm Keil tools, working in Arm's Munich office. Here, I store meaningful example
+The following repositories contain meaningful example
 projects for the [Keil Studio](https://mdk-packs.github.io/vscode-cmsis-solution-docs/index.html) IDE
 ([CMSIS solution-based](https://open-cmsis-pack.github.io/cmsis-toolbox/YML-Input-Format/)).
-
-## Keil Studio examples
-
-The following repositories contain ready-to-run examples:
 
 | Repository | Hardware used | Content |
 |------------|---------------|---------|
